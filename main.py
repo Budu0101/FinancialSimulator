@@ -1,4 +1,4 @@
-
+# Necessary Imports
 import sqlite3
 import random
 with sqlite3.connect("Game Idea\Death Chance.db") as db:
